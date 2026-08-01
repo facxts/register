@@ -1,1 +1,8 @@
-
+{
+  "owner": {
+    "username": "facxts"
+  },
+  "records": {
+    "CNAME": "facxts.github.io"
+  }
+}
